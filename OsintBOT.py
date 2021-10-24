@@ -13,7 +13,7 @@ from selenium.webdriver.chrome.options import Options
 from bs4 import BeautifulSoup
 from discord_webhook import DiscordWebhook, DiscordEmbed
 
-ipinfo_token = 'a5442d52fc3446'
+ipinfo_token = ''
 heure = time.ctime()
 screenWidth, screenHeight = pyautogui.size()
 
